@@ -17,9 +17,10 @@ Pastikan Anda telah menginstal Python 3 di sistem Anda.
 
 ### 1. Clone Repositori
 Pertama, clone repositori ini ke mesin lokal Anda:
-
+```
 git clone https://github.com/cinnamorollofficials/fullstack-test-algorithm.git
 cd fullstack-test-algorithm
+```
 
 ### 2. Menjalankan Skrip Individual
 Setiap soal memiliki file Python-nya sendiri. Jalankan file yang sesuai dari terminal dan berikan input sesuai format yang ditentukan.
