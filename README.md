@@ -34,7 +34,7 @@ Skrip ini mengharapkan input dalam dua baris:
 
 Contoh Eksekusi:
 ```
-python count_pairs.py
+python3 count_pairs.py
 ```
 
 Setelah menjalankan perintah di atas, masukkan input berikut di terminal:
@@ -58,7 +58,7 @@ Skrip ini mengharapkan input dalam dua baris:
 
 Contoh Eksekusi:
 ```
-python reverse_dna.py
+python3 reverse_dna.py
 ```
 
 Setelah menjalankan perintah di atas, masukkan input berikut di terminal:
